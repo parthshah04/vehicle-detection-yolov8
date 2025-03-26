@@ -6,6 +6,7 @@ rootutils==1.0.7 # path management
 colorlog==6.7.0 # logging with colors
 tqdm==4.66.0 # progress bar
 python-dotenv==1.0.0 # .env file support
+numpy==1.24.3
 
 # api
 fastapi==0.101.1 # API framework
